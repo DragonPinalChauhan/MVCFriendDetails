@@ -1,0 +1,2 @@
+# MVCFriendDetails
+Avai
